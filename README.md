@@ -1,7 +1,9 @@
+# Citiy Council Leipzig Recent Papers
+
 This is a scraper that runs on [Morph](https://morph.io). To get started [see the documentation](https://morph.io/documentation)
 
-Install docker:
-`curl -fsSL https://get.docker.com/ | sh`
+Install docker: See instructions on
+[store.docker.com](https://store.docker.com/search?type=edition&offering=community)
 
 Build docker image:
 `sudo docker build -t jrlover/leipzig_scraper .`
